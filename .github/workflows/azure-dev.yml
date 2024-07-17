@@ -5,7 +5,7 @@ on:
     # Set this to the mainline branch you are using
     branches:
       - main
-      - master
+      - workshop-challenge
     paths:
       - 'workshop/**/*'
 
